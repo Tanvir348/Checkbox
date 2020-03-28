@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Checkbox</string>
+    <string name="title_text">What do want to buy?</string>
+    <string name="redwine">Read wine</string>
+    <string name="vodka">Vodka</string>
+    <string name="riesling">Riesling</string>
+    <string name="show_text">Show</string>
+</resources>
